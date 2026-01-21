@@ -1,0 +1,9 @@
+[package]
+name = "twelve_days_of_christmas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+embedded-text = "0.7.3"
+embedded-graphics = "0.8.1"
+embedded-graphics-simulator = "0.2.0"
