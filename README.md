@@ -20,6 +20,6 @@ git clone https://github.com/vitalij-12/Projects.git
 cd Projects
 
 cargo run <programmname>
----
+```
 
 ![Logo](assets/logo.png)
