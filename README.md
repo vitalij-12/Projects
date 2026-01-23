@@ -15,7 +15,12 @@ rustup update
 
 rustc --version
 cargo --version
+```
+## Projekte installieren
 
+2. Repository klonen und ausführen
+
+```bash
 git clone https://github.com/vitalij-12/Projects.git
 cd Projects
 
