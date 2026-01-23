@@ -1,7 +1,7 @@
 # Projects
 
-Meine Programme, die ich während meines Rust-Lernprozesses erstellt habe.  
-Die meisten Programme sind **terminalbasiert**, ein Projekt ist für den **ESP32-S3 Microcontroller** mit LCD-Display eingerichtet.
+Meine Programme, die ich während meines Rust-Lernprozesses erstelle.  
+Die meisten Programme sind **terminalbasiert**, rust-logo ist für den **ESP32-S3 Microcontroller** mit LCD-Display eingerichtet.
 
 ---
 
