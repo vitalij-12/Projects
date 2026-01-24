@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Bisasam",
+        "description": "Für einige Zeit nach seiner Geburt verwendet es die Nährstoffe, die in den Samen auf dem Rücken verpackt werden, um zu wachsen.",
+        "abilities": "Überwuchs",
+        "poke_type": "Pflanze",
+        "height": "71 cm",
+        "weight": "6,9 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Glumanda",
+        "description": "Sein Schwanz ist mit einer Flamme versehen, die seine Lebensenergie anzeigt.",
+        "abilities": "Großbrand",
+        "poke_type": "Feuer",
+        "height": "60 cm",
+        "weight": "8,5 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Schiggy",
+        "description": "Es zieht seinen Kopf in den Panzer zurück, um sich vor Angriffen zu schützen.",
+        "abilities": "Feuchtigkeit",
+        "poke_type": "Wasser",
+        "height": "50 cm",
+        "weight": "9,0 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Raupy",
+        "description": "Es frisst Blätter, um zu wachsen. Sein Körper ist weich und beweglich.",
+        "abilities": "Schnellerwachen",
+        "poke_type": "Käfer",
+        "height": "30 cm",
+        "weight": "2,9 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Hornliu",
+        "description": "Sein Horn produziert ein lähmendes Gift. Es greift schnell und aggressiv an.",
+        "abilities": "Pflanzengift",
+        "poke_type": "Käfer",
+        "height": "30 cm",
+        "weight": "3,2 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Rattfratz",
+        "description": "Ein flinkes Pokémon, das bevorzugt nachts aktiv ist.",
+        "abilities": "Adrenalin",
+        "poke_type": "Normal",
+        "height": "30 cm",
+        "weight": "3,5 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Pikachu",
+        "description": "Wenn es verärgert ist, entlädt es sofort die Energie, die in den Beuteln in seinen Wangen gespeichert ist.",
+        "abilities": "Statik",
+        "poke_type": "Elektro",
+        "height": "40 cm",
+        "weight": "6 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Sandan",
+        "description": "Sein Körper ist hart und es kann schnell im Sand graben.",
+        "abilities": "Sandsturm",
+        "poke_type": "Boden",
+        "height": "30 cm",
+        "weight": "12 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Nidoran♀",
+        "description": "Ein scheues Pokémon, das giftige Stacheln benutzt, um sich zu verteidigen.",
+        "abilities": "Giftstachel",
+        "poke_type": "Gift",
+        "height": "40 cm",
+        "weight": "7 kg",
+        "gender": "♀"
+    },
+    {
+        "name": "Nidoran♂",
+        "description": "Es verteidigt sein Territorium aggressiv mit giftigen Stacheln.",
+        "abilities": "Giftstachel",
+        "poke_type": "Gift",
+        "height": "45 cm",
+        "weight": "9 kg",
+        "gender": "♂"
+    },
+    {
+        "name": "Vulpix",
+        "description": "Sein sechsfacher Schweif entwickelt eine wärmespeichernde Fähigkeit, es liebt warme Gebiete.",
+        "abilities": "Flammkörper",
+        "poke_type": "Feuer",
+        "height": "60 cm",
+        "weight": "9,9 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Digda",
+        "description": "Es gräbt schnell Tunnel und meidet Licht.",
+        "abilities": "Sandgräber",
+        "poke_type": "Boden",
+        "height": "20 cm",
+        "weight": "0,8 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Mauzi",
+        "description": "Ein scheues Katzen-Pokémon, das in der Nacht aktiv ist und gerne glänzende Dinge sammelt.",
+        "abilities": "Aufsammler",
+        "poke_type": "Normal",
+        "height": "40 cm",
+        "weight": "4,2 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Enton",
+        "description": "Sein Kopf schmerzt oft, was seine kognitive Leistung einschränkt.",
+        "abilities": "Dampfkopf",
+        "poke_type": "Wasser",
+        "height": "80 cm",
+        "weight": "19,6 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Menki",
+        "description": "Aggressiv, besonders wenn es provoziert wird. Lebt in Wäldern.",
+        "abilities": "Adrenalin",
+        "poke_type": "Kampf",
+        "height": "50 cm",
+        "weight": "7,5 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Fukano",
+        "description": "Es jagt in Rudeln, ist loyal zu seinem Trainer und clever.",
+        "abilities": "Flammkörper",
+        "poke_type": "Feuer",
+        "height": "60 cm",
+        "weight": "9,9 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Quapsel",
+        "description": "Trägt sein eigenes Gewicht an Wasser im Körper, kann seine Gegner damit überraschen.",
+        "abilities": "Feuchtigkeit",
+        "poke_type": "Wasser",
+        "height": "40 cm",
+        "weight": "9 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Sterndu",
+        "description": "Bewegt sich langsam, kann an Land oder im Wasser überleben.",
+        "abilities": "Regeneration",
+        "poke_type": "Wasser",
+        "height": "20 cm",
+        "weight": "8 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Relaxo",
+        "description": "Ein sehr träges Pokémon, schläft fast den ganzen Tag, selten aktiv.",
+        "abilities": "Schlafwandler",
+        "poke_type": "Normal",
+        "height": "2,1 m",
+        "weight": "460 kg",
+        "gender": "♀/♂"
+    },
+    {
+        "name": "Karpador",
+        "description": "Sehr schwach und unbeholfen, aber seine Entwicklung kann mächtig werden.",
+        "abilities": "Springkraft",
+        "poke_type": "Wasser",
+        "height": "90 cm",
+        "weight": "10 kg",
+        "gender": "♀/♂"
+    }
+]
+
